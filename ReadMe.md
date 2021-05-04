@@ -1,1 +1,1 @@
-This is the lite version of a customized enterprise attendance management web application
+This is a customized enterprise attendance management web application (lite version)
